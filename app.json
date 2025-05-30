@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "POPKID;;;HRwDRQQa#bS9dWFo6LVXgfkOOhZeaXYIVTqsnSICGYbM6KgSUpUg.",
       "required": true,
       "value": ""
     },  
@@ -92,7 +92,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254732297194"
+      "value": "2250503545038"
 
     }, 
 
@@ -148,8 +148,8 @@
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_REACT": {
