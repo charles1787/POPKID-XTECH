@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "POPKID;;;HRwDRQQa#bS9dWFo6LVXgfkOOhZeaXYIVTqsnSICGYbM6KgSUpUg"
     },  
     
     "STICKER_NAME": {
@@ -22,21 +22,21 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "@."
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -92,7 +92,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254732297194"
+      "value": "2250503545038"
 
     }, 
 
@@ -148,8 +148,8 @@
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_REACT": {
